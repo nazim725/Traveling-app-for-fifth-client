@@ -13,6 +13,7 @@ const Navigation = () => {
               <Nav.Link href="/services">Services</Nav.Link>
               <Nav.Link href="/contact">Contact</Nav.Link>
               <Nav.Link href="/bannar">Bannar</Nav.Link>
+              <Nav.Link href="/addService">Add service</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
